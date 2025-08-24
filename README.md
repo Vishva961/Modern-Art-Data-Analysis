@@ -18,9 +18,6 @@ The analysis highlights:
 - Acquisition trends across different time periods  
 - Distribution of artworks by style, medium, and artist  
 - Interactive charts for deeper exploration  
-
-> ⚡ For interactivity, open the generated `.html` files or run the notebooks locally.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -28,11 +25,3 @@ The analysis highlights:
 - **Pandas** (data handling)  
 - **Plotly** (interactive charts)  
 - **Jupyter Notebook**  
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Modern-Art-Data-Analysis.git
-   cd Modern-Art-Data-Analysis
